@@ -1,4 +1,8 @@
 .DS_Store
 # CONTRIBUTING.md
-.github/
+# .github/
 thumbs.db
+**/venv/
+__pycache__/
+*.pyc
+scripts/a.out
